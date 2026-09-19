@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "category": "React",
+    "author": "Unnati",
+    "date": "September 15, 2026",
+    "content": "React is a JavaScript library used for building interactive and reusable user interfaces."
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript",
+    "category": "JavaScript",
+    "author": "Unnati",
+    "date": "September 14, 2026",
+    "content": "JavaScript is a programming language that makes web pages interactive and dynamic."
+  },
+  {
+    "id": 3,
+    "title": "Getting Started with Node.js",
+    "category": "Node.js",
+    "author": "Unnati",
+    "date": "September 12, 2026",
+    "content": "Node.js allows developers to run JavaScript on the server and build backend applications."
+  },
+  {
+    "id": 4,
+    "title": "CSS Tips for Beginners",
+    "category": "CSS",
+    "author": "Unnati",
+    "date": "September 10, 2026",
+    "content": "CSS is used to style web pages and create responsive and attractive layouts."
+  },
+  {
+    "id": 5,
+    "title": "Why Learn Full Stack Development?",
+    "category": "Web Development",
+    "author": "Unnati",
+    "date": "September 8, 2026",
+    "content": "Full stack development helps developers build both frontend and backend parts of web applications."
+  }
+]
